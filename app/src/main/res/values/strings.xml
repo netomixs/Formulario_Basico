@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="dtosPErsonales">Datos personales</string>
+    <string name="Titulo">Registro de datos</string>
+    <string name="Nombre">Nombre</string>
+    <string name="ApellidoP">Apellido Paterno</string>
+    <string name="ApellidoM">Apelldio Materno</string>
+    <string name="Fecha_naci">Fecha de nacimiento</string>
+    <string name="Dia">Dia</string>
+    <string name="Mes">Mes</string>
+    <string name="Anio">Año</string>
+    <string name="color">Color favorito</string>
+    <string name="SlectFto">Cargar foto de perfil</string>
+    <string name="Fondo">Selecciona un fondo</string>
+    <array name="Meses">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </array>
+    <array name="Dias">
+        <item></item>
+    </array>
+</resources>
